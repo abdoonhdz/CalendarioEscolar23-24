@@ -3,6 +3,15 @@
     padding: 0;
 }
 
+.botones:hover {
+    cursor: pointer;
+}
+
+.lostres {
+    display: flex;
+    flex-direction: row;
+}
+
 header {
     background-color: rgb(255, 153, 153);
     display: flex;
